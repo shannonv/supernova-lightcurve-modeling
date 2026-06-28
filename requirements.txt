@@ -1,0 +1,16 @@
+# Install with:
+
+# pip install -r requirements.txt
+
+# Scientific computing
+
+numpy>=1.24
+scipy>=1.10
+
+# Astronomy
+
+astropy>=5.0
+
+# Visualization
+
+matplotlib>=3.7
